@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?PowerDesigner signature="Workspace" version="15.1.0.2850"?>
+<!-- Veuillez ne pas modifier ce fichier -->
+
+<Workspace>
+	<Local Expanded="Yes">
+		<Model Expanded="Yes" ID="{73345737-C986-47A3-BEC0-59BB357DE5D8}" Name="TodoListBD" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="TodoListBD.moo"/>
+		<Model Expanded="Yes" ID="{1CF65728-06D7-4952-9CFF-DBC4CBC82ADB}" Name="TodoListBD" Selected="Yes" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="TodoListBD.mpd"/>
+	</Local>
+	<BrowserModule Name="Référentiel"/>
+</Workspace>
